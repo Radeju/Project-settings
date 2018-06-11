@@ -1,1 +1,1 @@
-This is non-empty code. It only consists of Wiki pages. Happy reading!
+This is empty code repository. It only consists of Wiki pages. Happy reading!
